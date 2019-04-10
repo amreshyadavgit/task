@@ -1,0 +1,8 @@
+module.exports = {
+    "GOOGLE":{
+        "" : ""
+    },
+    "FACEBOOK":{
+        "" : ""
+    }
+}
